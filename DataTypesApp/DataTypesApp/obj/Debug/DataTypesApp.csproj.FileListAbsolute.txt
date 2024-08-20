@@ -1,0 +1,7 @@
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe.config
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.pdb
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.AssemblyReference.cache
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.CoreCompileInputs.cache
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.exe
+H:\Idnay_Harvey\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.pdb
